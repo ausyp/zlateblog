@@ -51,7 +51,7 @@ const IndexPage = ({
       <Hero>
         <h1>Hi.</h1>
         <p>
-          I&apos;m John Doe, a Whatever  UX Developer with five years of industry experience, specializing in developing
+          I&apos;m a Blogger i guess
           React apps with the best UX users can get.
         </p>
         <Link to="/contact">
