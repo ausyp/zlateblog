@@ -51,8 +51,7 @@ const IndexPage = ({
       <Hero>
         <h1>Hi.</h1>
         <p>
-          I&apos;m a Blogger i guess
-          React apps with the best UX users can get.
+          I&apos;m a Blogger, i guess.      
         </p>
         <Link to="/contact">
           <Button big>
