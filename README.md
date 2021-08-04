@@ -1,6 +1,6 @@
 # Gatsby Starter: Minimal Blog
 
-Typography driven, focus on the content & minimal style. Powered by MDX.
+Typography driven,  focus on the content & minimal style. Powered by MDX.
 
 [Demo Website](https://minimal-blog.lekoarts.de)
 
